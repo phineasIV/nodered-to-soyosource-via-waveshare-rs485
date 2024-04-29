@@ -10,5 +10,9 @@ https://www.waveshare.com/wiki/4-CH_RS485_TO_POE_ETH_(B)
 
 ![IMG_20240429_194259_846](https://github.com/phineasIV/nodered_soyosource_waveshare_rs485/assets/24437085/82acfb2b-1c7e-4ab0-878e-98d0fcfd9ae8)
 
-Noch Fragen?
-¿Algunas preguntas?
+Wenn du noch Fragen hast, helfe ich dir gerne weiter.
+
+Si tienes alguna pregunta, estaré encantado de ayudarte.
+
+If you have any questions, I'll be happy to help you.
+
