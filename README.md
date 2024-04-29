@@ -1,4 +1,4 @@
-# nodered_soyosource_waveshare_rs485
+# nodered soyosource waveshare rs485
 
 https://www.waveshare.com/wiki/4-CH_RS485_TO_POE_ETH_(B)
 
