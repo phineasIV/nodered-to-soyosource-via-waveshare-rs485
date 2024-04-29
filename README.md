@@ -1,5 +1,7 @@
 # nodered_soyosource_waveshare_rs485
 
+https://www.waveshare.com/wiki/4-CH_RS485_TO_POE_ETH_(B)
+
 ![Screenshot 2024-04-29 001258](https://github.com/phineasIV/nodered_soyosource_waveshare_rs485/assets/24437085/fc8d4abc-2426-4ec9-8ff6-b7c08a850443)
 
 
