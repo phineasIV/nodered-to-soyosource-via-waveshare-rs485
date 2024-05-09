@@ -13,7 +13,6 @@ var calc = (0xFF - sd[1] - sd[2] - sd[3] - sd[4] - sd[5] - sd[6]) % 256;
 sd[7] = calc & 0xFF;
 
 msg.payload = Buffer.from(sd);
-
 return msg;
 
 ![Screenshot 2024-04-29 183710](https://github.com/phineasIV/nodered_soyosource_waveshare_rs485/assets/24437085/856b07e8-758e-4da1-94f0-333ce5f6ed11)
